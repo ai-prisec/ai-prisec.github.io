@@ -13,7 +13,7 @@ title: AI Privacy and Security Seminars
 
 ### Upcoming Seminars
 
-<img src="../images/zijing.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+<img src="../images/Zijing.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 28 February 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220228T10&p1=102))  
 **Zijing Ou (Tencent AI Lab)**  
 Model Explanation with Shapley Values 

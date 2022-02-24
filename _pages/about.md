@@ -31,8 +31,5 @@ Model Explanation with Shapley Values
 - [Mr. Yi Liu](https://yiliucs.github.io/), CityU, Hong Kong
 - [Mr. Zijing Ou](https://j-zin.github.io/), Imperial College London, London
 - TBA
-#- [Prof. Emiliano De Cristofaro](https://emilianodc.com/), UCL
-#- [Dr. Giovanni Cherubin](https://giocher.com/), Alan Turing Institute  
-#- [Prof. Lorenzo Cavallaro](https://s2lab.cs.ucl.ac.uk/people/sullivan), UCL  
-#- [Dr. Vasilis Mavroudis](https://mavroud.is/), Alan Turing Institute  
+
 

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Students and ECRs in AIPriSec"
+title: "Students and ECRs in AI-PriSec"
 permalink: /students_ecrs/
 author_profile: true
 ---

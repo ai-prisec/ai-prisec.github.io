@@ -8,10 +8,6 @@ title: AI Privacy and Security Seminars
 <br>This is the homepage of the **AI Privacy & Security (AI-PriSec) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, a couple of times a month, always on Sunday, around 10 AM (HK Time).  
 
 ### Get Involved
-#- Subscribe to our **[mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?SUBED1=PRISEC-ML&A=1)** to receive to seminar and job announcements
-#- Join our **[Slack](https://join.slack.com/t/prisec-ml/shared_invite/zt-13in0oipd-FZcmFJ0r~_0D_xp3yIFuRA)** &ndash; this is particularly useful for students, who maintain an active working group with monthly (virtual) meet-ups
-#- Follow us on **[Twitter](https://twitter.com/prisec_ml)**
-#- Subscribe to our **[YouTube channel](http://youtube.com/c/PrivacyandMachineLearningInterestGroup)** where we live stream and keep recordings of the talks
 - TBA
 
 
@@ -21,7 +17,7 @@ title: AI Privacy and Security Seminars
 - 28 February 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220228T10&p1=102))  
 **Zijing Ou (Tencent AI Lab)**  
 Model Explanation with Shapley Values 
-[[Zoom Registration](https://meeting.tencent.com/dw/TSnpIDWx9GXP] [[Live Stream](https://meeting.tencent.com/dw/TSnpIDWx9GXP)]<details><br>**Abstract:** Deep neural networks (DNNs) become increasingly important in many applications while lacking explanations for their excellent performance. **Shapley Value** provides a theoretical and practical explainer for DNNs. In this talk, the presenter will introduce the most recent progress in model explanation with Shapley value, including its estimation, uncertainty, and potential research areas.<br><br>**Bio:** Zijing Ou recently graduated with a B.E. degree from Sun Yat-sen University and now works as an intern in Tencent AI Lab. His research interests include approximate inference, energy-based models, and interpretable AI. His research has been published at venues including IJCAI, ACL, EMNLP, etc. He also works as a reviewer for ICML, IJCAI, ACL, etc. Home: [https://j-zin.github.io/](https://j-zin.github.io/)<br></details>
+[[Zoom Registration](https://meeting.tencent.com/dw/TSnpIDWx9GXP]] [[Live Stream](https://meeting.tencent.com/dw/TSnpIDWx9GXP)]<details><br>**Abstract:** Deep neural networks (DNNs) become increasingly important in many applications while lacking explanations for their excellent performance. **Shapley Value** provides a theoretical and practical explainer for DNNs. In this talk, the presenter will introduce the most recent progress in model explanation with Shapley value, including its estimation, uncertainty, and potential research areas.<br><br>**Bio:** Zijing Ou recently graduated with a B.E. degree from Sun Yat-sen University and now works as an intern in Tencent AI Lab. His research interests include approximate inference, energy-based models, and interpretable AI. His research has been published at venues including IJCAI, ACL, EMNLP, etc. He also works as a reviewer for ICML, IJCAI, ACL, etc. Home: [https://j-zin.github.io/](https://j-zin.github.io/)<br></details>
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->

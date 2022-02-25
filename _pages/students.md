@@ -13,7 +13,7 @@ author_profile: true
 <img src="../images/zhezhang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 27 February 2022, 11:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220228T11&p1=102))  
 **Zhe Zhang**  **(HLJU)**
-<br>Interpret Federated Learning with Shapley Values<br>[[WeMeet Registration](https://meeting.tencent.com/dw/TSnpIDWx9GXP)] [[Live Stream](https://meeting.tencent.com/dw/TSnpIDWx9GXP)]<br><details><br>**Abstract:**TBA.<br>
+<br>Interpret Federated Learning with Shapley Values<br>[[WeMeet Registration](https://meeting.tencent.com/dw/TSnpIDWx9GXP)] [[Live Stream](https://meeting.tencent.com/dw/TSnpIDWx9GXP)]<br><details><br>**Abstract:** With the continuous breakthroughs in the research and application of federated learning, high-performance, complex algorithms and models generally lack the transparency of decision logic and the interpretability of results. Therefore, it is challenging to deploy federated learning technology in national defense, finance, medical care, law, and cybersecurity that require accurate decision-making. In this talk, the presenter will introduce some methods that Shapley values to explain vertical federated learning.<br>
 <br>**Bios:** Zhe Zhang received the B.S. degree from the North China University of Water Resources and Electric Power, in 2020. He is currently working toward a Master's Degree in Information Statistics Technology at Heilongjiang University. His research interests are mainly federated learning, semi-supervised learning, and spiking neural networks.<br> </details>
 
 

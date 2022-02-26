@@ -24,6 +24,7 @@ Model Explanation with Shapley Values
 
 ### Organizers
 - Prof. Yi Wu, HLJU, Harbin
+- [Prof. Jiawen Kang](https://teacher.gdut.edu.cn/kangjiawen/zh_CN/index/204229/list/index.htm), GUDT, Guangzhou
 - [Mr. Yi Liu](https://yiliucs.github.io/), CityU, Hong Kong
 - [Mr. Zijing Ou](https://j-zin.github.io/), Tencent AI Lab, Shenzhen
 - TBA

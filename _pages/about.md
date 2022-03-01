@@ -8,9 +8,9 @@ title: AI Privacy and Security Seminars
 <br>This is the homepage of the **AI Privacy & Security (AI-PriSec) Interest Group**. It brings together researchers and practitioners around the world broadly interested in this topic. For the time being, it features recurring seminars, a couple of times a month, always on Sunday, around 10 AM (HK Time).  
 
 ### Get Involved
-- Subscribe to our **[WeChat public account]()** to receive to seminar and job announcements
+- Subscribe to our **[WeChat Public Account]()** to receive to seminar and job announcements
 - Join our **[WeChat Group](https://drive.google.com/file/d/1SC-7k0xuDVc7r8B9nFeDPQVoxMQdPOGe/view?usp=sharing)** &ndash; this is particularly useful for students, who maintain an active working group with monthly (virtual) meet-ups
-- Subscribe to our **[bilibili channel](https://space.bilibili.com/341626036?spm_id_from=333.337.0.0)** where we live stream and keep recordings of the talks
+- Subscribe to our **[Bilibili Channel](https://space.bilibili.com/341626036?spm_id_from=333.337.0.0)** where we live stream and keep recordings of the talks
 
 
 

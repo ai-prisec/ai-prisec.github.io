@@ -10,6 +10,11 @@ author_profile: true
 
 ### Upcoming Seminars
 
+<img src="../images/yukang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 6 March 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220206T10&p1=102))  
+**Yi Liu (CityU)**  
+When Virtual Reality Techniques Meet Metaverse: A Front-end Perspective    
+[[WeMeet Registration](https://meeting.tencent.com/dw/mD5ht1WOQQbQ)] [[Live Stream](https://meeting.tencent.com/dw/mD5ht1WOQQbQ)]<details><br>**Abstract:**Due to the development of network communication technology, Metaverse has entered the public eye. In this context, Metaverse has become a hot research direction, and related virtual reality technologies AR/VR/MR/XR have also become a research hotspot in the industry. In this talk, I will introduce the associations and differences between AR, VR, MR, and XR from the perspective of common sense in computer graphics, as well as some existing technical problems and corresponding solutions. Finally, a method to quickly build a simple VR APP based on ThreeJS and React will be introduced.<br><br>**Bio:** Yukang Shen received the B.Eng. degree in Network Engineering from Heilongjiang University, Harbin, China, in 2020. He is now a front-end engineer at SenseTime.<br></details>
 
 
 

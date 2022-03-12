@@ -10,15 +10,21 @@ author_profile: true
 
 ### Upcoming Seminars
 
-<img src="../images/yukang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
-- 6 March 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220206T10&p1=102))  
-**Yukang Shen (SenseTime)**  
-When Virtual Reality Techniques Meet Metaverse: A Front-end Perspective    
-[[WeMeet Registration](https://meeting.tencent.com/dw/mD5ht1WOQQbQ)] [[Live Stream](https://meeting.tencent.com/dw/mD5ht1WOQQbQ)]<details><br>**Abstract:**Due to the development of network communication technology, Metaverse has entered the public eye. In this context, Metaverse has become a hot research direction, and related virtual reality technologies AR/VR/MR/XR have also become a research hotspot in the industry. In this talk, I will introduce the associations and differences between AR, VR, MR, and XR from the perspective of common sense in computer graphics, as well as some existing technical problems and corresponding solutions. Finally, a method to quickly build a simple VR APP based on ThreeJS and React will be introduced.<br><br>**Bio:** Yukang Shen received the B.Eng. degree in Network Engineering from Heilongjiang University, Harbin, China, in 2020. He is now a front-end engineer at SenseTime.<br></details>
+<img src="../images/yuyu.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 13 March 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220313T10&p1=102))  
+**Yuyu Yuan (GDUT)**  
+Digital Twin of Power Systems      
+[[WeMeet Registration](https://meeting.tencent.com/dm/Rd3mzSSDhNFM)] [[Live Stream](https://meeting.tencent.com/dm/Rd3mzSSDhNFM)]<details><br>**Abstract:**The power system is the most complex, capital, technology-intensive and man-made composite system in the world. Correct cognition of power systems is the prerequisite for various power grid operation management and regulation decisions. The nonlinear, high latitude, layered, and distributed characteristics of the power systems are the difficulties faced by power system cognition. The application of digital twins in the power system can provide a reference for power transportation management and regulation decision-making by analyzing a large amount of data and mapping the real-time state of entities. In this talk, we will provide an overview of the DT-based power system.<br><br>**Bio:** Yuyu Yuan is currently working toward a B.S. degree at the Guangdong University of Technology. Her interests mainly include digital twins, the Internet of Things, Metaverse. In this speech, the speaker will introduce the application and Prospect of digital twins in a power system.<br></details>
 
 
 
 ### Past Seminars
+<img src="../images/yukang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 6 March 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220206T10&p1=102))  
+**Yukang Shen (SenseTime)**  
+When Virtual Reality Techniques Meet Metaverse: A Front-end Perspective    
+<details><br>**Abstract:**Due to the development of network communication technology, Metaverse has entered the public eye. In this context, Metaverse has become a hot research direction, and related virtual reality technologies AR/VR/MR/XR have also become a research hotspot in the industry. In this talk, I will introduce the associations and differences between AR, VR, MR, and XR from the perspective of common sense in computer graphics, as well as some existing technical problems and corresponding solutions. Finally, a method to quickly build a simple VR APP based on ThreeJS and React will be introduced.<br><br>**Bio:** Yukang Shen received the B.Eng. degree in Network Engineering from Heilongjiang University, Harbin, China, in 2020. He is now a front-end engineer at SenseTime.<br></details>
+
 <img src="../images/zhezhang.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 27 February 2022, 11:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220228T11&p1=102))  
 **Zhe Zhang**  **(HLJU)**

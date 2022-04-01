@@ -19,7 +19,7 @@ title: AI Privacy and Security Seminars
 
 <img src="../images/linzheng.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3 April 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220320T10&p1=102))  
-**Lin Zheng (University of Hong Kong)**
+**Lin Zheng (University of Hong Kong)**  
 Linear Complexity Randomized Self-attention Mechanism    
 [[WeMeet Registration](https://meeting.tencent.com/dm/oYHLplEriEmZ)] [[Live Stream](https://meeting.tencent.com/dm/oYHLplEriEmZ)]<details><br>**Abstract:** Attention mechanism is the core building block in many state-of-the-art models across various domains. It is powerful and expressive in capturing complicated and long-range dependencies within the input elements. Nevertheless, it does not scale efficiently to long sequences due to its quadratic time and space complexity in terms of the sequence length. In this talk, we will first discuss current strategies on reducing the time/space complexity of attention, and then focus on RFA, a particular linear attention variant that uses random feature methods to approximate the softmax function. Finally, we introduce a novel perspective to understand the approximation bias in RFA from the perspective of self-normalized importance sampling.<br><br>**Bio:** Lin Zheng received his B.E. degree from Sun Yat-sen University (SYSU) and now is a Ph.D. student at the University of Hong Kong (HKU), supervised by Lingpeng Kong. His research interests include machine learning and probabilistic inference.<br></details>
 

@@ -17,7 +17,7 @@ title: AI Privacy and Security Seminars
 
 ### Upcoming Seminars
 
-<img src="../images/linzheng.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+<img src="../images/linzheng.png" style="float:right;width:100px;height:100px;margin-top:00px">
 - 3 April 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220320T10&p1=102))  
 **Lin Zheng (University of Hong Kong)**  
 Information Bottleneck in Graph Structured Data     

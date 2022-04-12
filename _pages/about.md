@@ -16,13 +16,7 @@ title: AI Privacy and Security Seminars
 
 
 ### Upcoming Seminars
-
-<img src="../images/linzheng.png" style="float:right;width:100px;height:100px;margin-top:00px">
-- 3 April 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220320T10&p1=102))  
-**Lin Zheng (University of Hong Kong)**  
-Linear Complexity Randomized Self-attention Mechanism    
-[[WeMeet Registration](https://meeting.tencent.com/dm/oYHLplEriEmZ)] [[Live Stream](https://meeting.tencent.com/dm/oYHLplEriEmZ)]<details><br>**Abstract:** Attention mechanism is the core building block in many state-of-the-art models across various domains. It is powerful and expressive in capturing complicated and long-range dependencies within the input elements. Nevertheless, it does not scale efficiently to long sequences due to its quadratic time and space complexity in terms of the sequence length. In this talk, we will first discuss current strategies on reducing the time/space complexity of attention, and then focus on RFA, a particular linear attention variant that uses random feature methods to approximate the softmax function. Finally, we introduce a novel perspective to understand the approximation bias in RFA from the perspective of self-normalized importance sampling.<br><br>**Bio:** Lin Zheng received his B.E. degree from Sun Yat-sen University (SYSU) and now is a Ph.D. student at the University of Hong Kong (HKU), supervised by Lingpeng Kong. His research interests include machine learning and probabilistic inference.<br></details>
-
+TBA
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
@@ -31,11 +25,23 @@ Linear Complexity Randomized Self-attention Mechanism
 
 ### Past Seminars
 
+<img src="../images/ma.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
+- 10 April 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220410T10&p1=102))  
+**Shiyao Ma (Dalian Minzu University)**  
+Towards Efficient Semantic Communication Systems via Deep Learning Techniques      
+[[Recording](https://www.bilibili.com/video/BV1j44y1V7m8?spm_id_from=333.999.0.0)] [[Slide](https://docs.google.com/presentation/d/19JT7Ad75V-3toMpN8f9bTmLRQ9tPCIig/edit?usp=sharing&ouid=112312692294010335603&rtpof=true&sd=true)]<details><br>**Abstract:** Communication technology is rapidly evolving to cater to emerging industries such as self-driving cars and the smart Internet of Things. As we enter the era of connected intelligence, a fundamental paradigm shift is necessary to meet the urgent demands for real-time communication, autonomous decision-making, and efficient distributed processing. Semantic communication is proposed in this context. In this topic, we introduce the related background knowledge of semantic communication and some semantic communication systems that have been proposed.<br><br>**Bio:** Shiyao Ma received the B.Eng degree from the Heilongjiang University, China, in 2021. He is currently studying for a master`s degree in Dalian Minzu University. His research interests including security and privacy protection, and data mining.<br></details>
+
+<img src="../images/linzheng.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 3 April 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220320T10&p1=102))  
+**Lin Zheng (University of Hong Kong)**  
+Linear Complexity Randomized Self-attention Mechanism    
+[[Recording](https://www.bilibili.com/video/BV1jA4y197aq?spm_id_from=333.999.0.0)] [[Slide](https://drive.google.com/file/d/1VJHK4Dmi0So_K3wEbjLC8A5nhjscr0Vf/view?usp=sharing)][[Paper](https://arxiv.org/pdf/2204.04667.pdf)]<details><br>**Abstract:** Attention mechanism is the core building block in many state-of-the-art models across various domains. It is powerful and expressive in capturing complicated and long-range dependencies within the input elements. Nevertheless, it does not scale efficiently to long sequences due to its quadratic time and space complexity in terms of the sequence length. In this talk, we will first discuss current strategies on reducing the time/space complexity of attention, and then focus on RFA, a particular linear attention variant that uses random feature methods to approximate the softmax function. Finally, we introduce a novel perspective to understand the approximation bias in RFA from the perspective of self-normalized importance sampling.<br><br>**Bio:** Lin Zheng received his B.E. degree from Sun Yat-sen University (SYSU) and now is a Ph.D. student at the University of Hong Kong (HKU), supervised by Lingpeng Kong. His research interests include machine learning and probabilistic inference.<br></details>
+
 <img src="../images/chenhan.jpg" style="float:right;width:100px;height:100px;margin-top:00px">
 - 20 March 2022, 10:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220320T10&p1=102))  
 **Chenhan Zhang (University of Technology Sydney)**  
 Information Bottleneck in Graph Structured Data     
-[[WeMeet Registration](https://meeting.tencent.com/dw/Zjc8HaUveNK6)] [[Live Stream](https://meeting.tencent.com/dw/Zjc8HaUveNK6)]<details><br>**Abstract:** Graph Neural Networks (GNNs) are powerful to fuse information from network structure and node features. However, noise and redundancy in graph data make: 1) the prediction results lack interpretation; 2)GNNs are fragile to adversarial attacks. The theory of **information bottleneck (IB)** to can provide an effective way to optimally balances expressiveness and robustness of the learned representation of graph data. In this talk, the presenter will introduce enlightening instances in using IB to prune graph data to improve the robustness and maintain expressiveness at the same time.<br><br>**Bio:** Chenhan Zhang received B.E. degree and M.S degree from University of Wollongong and City University of Hong Kong and now is a PhD candidate at University of Technology Sydney. His research interests include graph neural networks, and robustness of machine learning, etc.<br></details>
+[[Recording](https://www.bilibili.com/video/BV1XB4y1m7nR?spm_id_from=333.999.0.0)] [[Slide](https://drive.google.com/file/d/1o6m8QtoHnC-6i55vb_zwt3-4SGb802P1/view?usp=sharing)]<details><br>**Abstract:** Graph Neural Networks (GNNs) are powerful to fuse information from network structure and node features. However, noise and redundancy in graph data make: 1) the prediction results lack interpretation; 2)GNNs are fragile to adversarial attacks. The theory of **information bottleneck (IB)** to can provide an effective way to optimally balances expressiveness and robustness of the learned representation of graph data. In this talk, the presenter will introduce enlightening instances in using IB to prune graph data to improve the robustness and maintain expressiveness at the same time.<br><br>**Bio:** Chenhan Zhang received B.E. degree and M.S degree from University of Wollongong and City University of Hong Kong and now is a PhD candidate at University of Technology Sydney. His research interests include graph neural networks, and robustness of machine learning, etc.<br></details>
 
 
 <img src="../images/yiliu.jfif" style="float:right;width:100px;height:100px;margin-top:00px">

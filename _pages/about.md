@@ -16,7 +16,11 @@ title: AI Privacy and Security Seminars
 
 
 ### Upcoming Seminars
-TBA
+<img src="../images/bowentian.png" style="float:right;width:100px;height:100px;margin-top:00px">
+- 30 April 2022, 20:00 ([HK time](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Seminar&iso=20220320T10&p1=102))  
+**Bowen Tian (Sun Yat-sen University)**  
+Anomaly Detection by Leveraging Incomplete Anomalous Knowledge with Anomaly-Aware Bidirectional GANs    
+[[Recording]()]<details><br>**Abstract:** The goal of anomaly detection is to identify anomalous samples from normal ones. In this paper, a small number of anomalies are assumed to be available at the training stage, but they are assumed to be collected only from several anomaly types, leaving the majority of anomaly types not represented in the collected anomaly dataset at all. To effectively leverage this kind of incomplete anomalous knowledge represented by the collected anomalies, we propose to learn a probability distribution that can not only model the normal samples, but also guarantee to assign low density values for the collected anomalies. To this end, an anomaly-aware generative adversarial network (GAN) is developed, which, in addition to modeling the normal samples as most GANs do, is able to explicitly avoid assigning probabilities for collected anomalous samples. Moreover, to facilitate the computation of anomaly detection criteria like reconstruction error, the proposed anomaly-aware GAN is designed to be bidirectional, attaching an encoder for the generator.  Extensive experimental results demonstrate that our proposed method is able to effectively make use of the incomplete anomalous information, leading to significant performance gains compared to existing methods.<br><br>**Bio:** Bowen Tian received his B.S. degree in Mathematics from the South China University of Technology, Guangdong, China, in 2020. He is now pursuing the M.S. degree in the Sun Yat-sen University. His research interests include Statistical machine learning, anomaly detection and deep learning.<br></details>
 
 
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn_NkH-IEVA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
